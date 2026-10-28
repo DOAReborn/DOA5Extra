@@ -10,14 +10,12 @@ Turn modules on or off in the **EXTRA OPTIONS** menu (main menu) or in `DOA5Extr
 
 ## Modules
 
-- **Style**: custom titles, new life bar colors, DOAReborn title portrait, REVOLUTION title and character select screens, Patreon banner in the main menu.
-- **Punish Training**: punishment challenges in Training (F8 / L3).
-- **Hitbox**: attack and body hitboxes in Training (F6).
-- **Critical Burst**: PS4 Critical Burst fragments.
-- **PS4 costumes**: transformations, tearing and effects of the PS4 costumes (installed with DOA5Installer), also in lobbies.
-- **Bust physics**: breast press on contact, with the PS4 spring, and the PS4 "LR" breast motion.
-- **PS4 skin**: subsurface scattering and sweat, like PS4.
-- **Console music**: music of the console stages.
+- **Style**: custom titles, new life bar colors.
+- **Punish Training**: punishment challenges in Training (press L3).
+- **Hitbox**: attack and body hitboxes in Training (press F6).
+- **Critical Burst**: Updated Critical Burst fragments.
+- **Bust physics**: breast press on contact.
+- **Updated skin**: subsurface scattering and sweat.
 
 ## Build
 
